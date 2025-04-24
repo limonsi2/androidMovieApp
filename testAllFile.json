@@ -6410,28 +6410,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/nqUThBjou0TAWXu93Q4SNFpgqai.jpg",
-      "genre_ids": [
-        28,
-        12,
-        878
-      ],
-      "id": 634649,
-      "original_language": "en",
-      "original_title": "Spider-Man: No Way Home",
-      "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
-      "popularity": 35.7139,
-      "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
-      "release_date": "2021-12-15",
-      "title": "Spider-Man: No Way Home",
-      "video": false,
-      "vote_average": 7.946,
-      "vote_count": 20693,
-      "linkid": "pgXy2ypDWouVp4",
-      "srt": "Spider-Man No Way Home 2021"
-    },
-    {
-      "adult": false,
       "backdrop_path": "/8EDqUHTSUrDFQsGx9tDh0m9ouYf.jpg",
       "genre_ids": [
         35,
@@ -13302,28 +13280,6 @@
       "vote_count": 684,
       "linkid": "APgwAvYGJYCXPgp",
       "srt": "The Kings Daughter 2022"
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/nqUThBjou0TAWXu93Q4SNFpgqai.jpg",
-      "genre_ids": [
-        28,
-        12,
-        878
-      ],
-      "id": 634649,
-      "original_language": "en",
-      "original_title": "Spider-Man: No Way Home",
-      "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
-      "popularity": 35.7139,
-      "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
-      "release_date": "2021-12-15",
-      "title": "Spider-Man: No Way Home",
-      "video": false,
-      "vote_average": 7.946,
-      "vote_count": 20693,
-      "linkid": "0pOzZ3Ll2qUbPvl",
-      "srt": "Spider-Man No Way Home 2021"
     },
     {
       "adult": false,
