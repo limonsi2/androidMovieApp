@@ -7548,27 +7548,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/aCHn2TXYJfzPXQKA6r9mKPbMlUB.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "id": 37165,
-      "original_language": "en",
-      "original_title": "The Truman Show",
-      "overview": "Every second of every day, from the moment he was born, for the last thirty years, Truman Burbank has been the unwitting star of the longest running, most popular documentary-soap opera in history. The picture-perfect town of Seahaven that he calls home is actually a gigantic soundstage. Truman's friends and family - everyone he meets, in fact - are actors. He lives every moment under the unblinking gaze of thousands of hidden TV cameras.",
-      "popularity": 25.1166,
-      "poster_path": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
-      "release_date": "1998-06-04",
-      "title": "The Truman Show",
-      "video": false,
-      "vote_average": 8.146,
-      "vote_count": 18816,
-      "linkid": "VOZZlwy47ATO4p",
-      "srt": "The Show 2021"
-    },
-    {
-      "adult": false,
       "backdrop_path": "/pZTz6yUefEhvVe1nzB3BMp8Ptxf.jpg",
       "genre_ids": [
         27
