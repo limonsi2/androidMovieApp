@@ -10743,28 +10743,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/6oaL4DP75yABrd5EbC4H2zq5ghc.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        14
-      ],
-      "id": 129,
-      "original_language": "ja",
-      "original_title": "\u5343\u3068\u5343\u5c0b\u306e\u795e\u96a0\u3057",
-      "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
-      "popularity": 22.18,
-      "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
-      "release_date": "2001-07-20",
-      "title": "Spirited Away",
-      "video": false,
-      "vote_average": 8.5,
-      "vote_count": 17083,
-      "linkid": "DXzDw8g4k2HkkWj",
-      "srt": "Spirited 2022"
-    },
-    {
-      "adult": false,
       "backdrop_path": "/dIuCk52ePc6CMvVCGQzeGgKIGYJ.jpg",
       "genre_ids": [
         27
